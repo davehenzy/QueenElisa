@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'QUEENELISA;;;==wZCRmMPpUUJtWOPBXd08mV2skNxZFd2gmeLhkQ2MXaiNFO4hWezAlbkJVMjEUaChXbFV0Ypwd=9612917418432',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -19,14 +19,14 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: '', 
+  MONGODB_URL: 'mongodb+srv://davehenzy:33307885@cluster0.7aiwl.mongodb.net/', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
-  BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
+  BOT_NAME: 'DaveHenzy',
+  OWNER_NAME: 'David Henry',
+  OWNER_NUMBER: '2348147192169',
+  SUDO: '2348147192169',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
@@ -56,8 +56,8 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ANTI_CHANNEL_FORWARD: false,
   ANTI_BOT: false,
   BUTTON_MESSAGES: true,
-  SONG_DOWNLOAD_TYPE: 'selectable', // audio , document
-  VIDEO_DOWNLOAD_TYPE: 'selectable', // video
+  SONG_DOWNLOAD_TYPE: 'audio', // audio , document
+  VIDEO_DOWNLOAD_TYPE: 'video', // video
   FB_DOWNLOAD_TYPE: 'selectable', // hdvideo , sdvideo
   TIKTOK_DOWNLOAD_TYPE: 'selectable', // nowmvideo , wmvideo
   MSG: {
